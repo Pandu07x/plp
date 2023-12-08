@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44450",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\New folder (2)\\IDEX 2.0\\IDEX\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
